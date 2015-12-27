@@ -1207,7 +1207,7 @@ function () {
     case 8:
       g.ghostEyesCount > 0 && g.ghostEyesCount--;
       g.ghostEyesCount == 0 && g.playAmbientSound();
-      break
+      break;
     }
     switch (b) {
     case 4:
