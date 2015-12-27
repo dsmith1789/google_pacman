@@ -1186,7 +1186,7 @@ function () {
     g.prepareElement(this.el, 0, 0);
     g.playfieldEl.appendChild(this.el);
     this.elPos = [0, 0];
-    this.elBackgroundPos = [0, 0]
+    this.elBackgroundPos = [0, 0];
   };
   E.prototype.a = function (b) {
     var c = this.mode;
